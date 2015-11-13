@@ -6,8 +6,9 @@
         version     = "0.0.1" >
 
     <!-- versionCode is optional and Android only -->
-
-    <name>Hello World</name>
+    
+    
+    <name>Glücklicher Schüler</name>
 
     <description>
         Erstes einfaches Beispeile für eine Phonegap App!
